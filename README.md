@@ -36,7 +36,7 @@ A **Darlington Pair** is used to amplify the small current produced when raindro
 ![Rain alarm Circuit](Rain-alarm-darlington-pair/Schematic_Diag.jpg)
 
 ## Real Images from thr Project
-![Real Circuit](Rain-alarm-darlington-pair/rainalarm.jpg)
+![Real Circuit](Rain-alarm-darlington-pair/rain-alarm.jpg)
 
 
 ---
